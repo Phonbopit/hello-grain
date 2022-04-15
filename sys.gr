@@ -1,0 +1,7 @@
+import Process from "sys/process"
+import Time from "sys/time"
+import Random from "sys/random"
+
+print(Process.argv())
+print(Time.realTime())
+print(Random.random())

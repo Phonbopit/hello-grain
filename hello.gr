@@ -1,1 +1,11 @@
 print("Hello, world!")
+
+let add = (x, y) => x + y
+
+let user = ("Chuck Norris", 32, "Superstar")
+
+let (name, age, position) = user
+
+let number = age + 1
+
+print(add(5, 10))

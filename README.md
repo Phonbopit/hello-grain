@@ -35,4 +35,10 @@ Compile
 grain hello.gr
 ```
 
-> Compile hello world take me 1-2 minutes 🤣
+> Compile hello world take me 1-2 minutes? 🤣
+
+Run a wasm file
+
+```
+gran run hello.gr.wasm
+```
